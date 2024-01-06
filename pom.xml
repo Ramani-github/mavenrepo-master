@@ -33,12 +33,12 @@
    <distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://34.229.255.137:8081/repository/dinesh-snapshot/</url>
+		    <url>http://44.203.168.154:8081/repository/b12-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://34.229.255.137:8081/repository/dinesh-release/</url>
+		    <url>http://44.203.168.154:8081/repository/b12-releases/</url>
 		</repository>
   	</distributionManagement>
   <properties>
